@@ -1,4 +1,4 @@
-## Employee Abstraction Class
+## Employee Abstract Class
 
 This program demonstrates the concept of abstraction in Python.
 
